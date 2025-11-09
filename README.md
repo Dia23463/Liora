@@ -1,4 +1,4 @@
-##Inspiration
+##Inspiration:<br>
 Many elderly residents in nursing homes experience chronic loneliness. They often reminisce about their younger days when life was full of social interaction, optimism, and hope. Liora was inspired by the idea that maybe technology can help people feel what it is constantly removing the need for- a little conversation that makes someone feel heard. So, we thought of Liora a personalized AI companion that provides emotional support, and cognitive engagement to seniors who may feel isolated.<br>
 
 ##What it does:<br>
@@ -19,5 +19,11 @@ Frontend: Streamlit for a clean, interactive interface.<br> AI Chatbot: Google G
 ##What's next for Liora:<br>
 1) Add voice-based chat for accessibility and natural interaction.<br> 2) Expand the library of games and mental exercises.<br> 3) Include predictive analytics for early detection of emotional decline.<br> 4) Enhance AI personas with memory and context over long-term interactions.<br>
 
-##Built With:
+Built With:
 Gemini API, pandas, pysentimiento, python, streamlit
+
+##Implementation:<br>
+1) Download the code from the githib repo.<br>
+2) Install all useful dependencies.<br>
+3) To run, enter- streamlit run main.py in the terminal.<br>
+4) Enjoy the interface!<br>
