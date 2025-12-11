@@ -228,7 +228,7 @@ def patient_dashboard():
     st.write("A gentle AI friend that listens and chats ❤️")
 
     # Initialize model
-    genai.configure(api_key="AIzaSyAKSz41LwNqevQjuurtj0ybpUhrYS7wIQM")
+    genai.configure(api_key="API_KEY")
     model = genai.GenerativeModel("gemini-2.5-pro")
 
     default_personas = {
@@ -460,3 +460,4 @@ else:
         nurse_dashboard()
     else:
         patient_dashboard()
+
